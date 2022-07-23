@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kotlin_3HW</string>
+    <string name="photo">Выбор фотографий</string>
+    <string name="result">Result</string>
+    <string name="SelectedPhotos">Выбранные фотографии</string>
+    <string name="Selected">Selected</string>
+    <string name="photos">Photos</string>
+
+</resources>
